@@ -64,7 +64,7 @@ layers:
   - LAYER2
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-shift$$
-  - RIGHT GUI
+  - LAYER1
   LAYER1:
   - {t: '`', s: '~'}
   - F1
@@ -129,7 +129,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held alternate}
   LAYER2:
   - '~'
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
